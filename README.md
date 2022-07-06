@@ -1,4 +1,6 @@
 # app
+## Preview
+<img src="https://im2.ezgif.com/tmp/ezgif-2-060f72d63b.gif">
 
 ## Build Setup
 
